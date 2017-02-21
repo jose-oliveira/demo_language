@@ -1,0 +1,4 @@
+services:
+  demo_language.language_hierarchy:
+    class: Drupal\demo_language\LanguageHierarchy
+    arguments: ['@language_manager']

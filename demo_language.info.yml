@@ -1,0 +1,8 @@
+name: Demo Language
+description: Custommizations for the language system.
+type: module
+core: 8.x
+package: Multilingual
+dependencies:
+  - content_translation
+  - language_hierarchy
